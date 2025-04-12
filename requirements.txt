@@ -1,0 +1,4 @@
+#mlflow==2.21.2
+keras
+hyperopt
+tensorflow
